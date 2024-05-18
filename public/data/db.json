@@ -1,0 +1,138 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": [
+        "Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well.",
+        "Add the rest of the ingredients and mix well.",
+        "Place the mixture in a large bowl and cover with a lid.",
+        "Place the lid on the oven and cook for 40 minutes.",
+        "Serve with a slaw of your choice"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Chicken Curry",
+      "ingredients": [
+        "500g Chicken Breast",
+        "2 Onions",
+        "3 Tomatoes",
+        "200ml Coconut Milk",
+        "2 tsp Curry Powder"
+      ],
+      "method": [
+        "Heat oil in a pan and sauté chopped onions until golden.",
+        "Add diced chicken and cook until browned.",
+        "Add chopped tomatoes and curry powder, cook for 5 minutes.",
+        "Pour in coconut milk, simmer for 20 minutes.",
+        "Serve with rice."
+      ],
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Spaghetti Bolognese",
+      "ingredients": [
+        "400g Spaghetti",
+        "300g Minced Beef",
+        "1 Onion",
+        "2 Garlic Cloves",
+        "400g Tomato Sauce"
+      ],
+      "method": [
+        "Cook spaghetti according to package instructions.",
+        "In a pan, sauté chopped onion and garlic until golden.",
+        "Add minced beef and cook until browned.",
+        "Stir in tomato sauce, simmer for 15 minutes.",
+        "Serve sauce over spaghetti."
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "4",
+      "title": "Grilled Salmon",
+      "ingredients": [
+        "2 Salmon Fillets",
+        "1 Lemon",
+        "2 tbsp Olive Oil",
+        "1 tsp Dill",
+        "Salt and Pepper"
+      ],
+      "method": [
+        "Preheat grill to medium-high heat.",
+        "Brush salmon fillets with olive oil and season with dill, salt, and pepper.",
+        "Place salmon on the grill, cook for 4-5 minutes each side.",
+        "Squeeze lemon over salmon before serving."
+      ],
+      "cookingTime": "15 minutes"
+    },
+    {
+      "id": "5",
+      "title": "Pancakes",
+      "ingredients": [
+        "200g Flour",
+        "300ml Milk",
+        "2 Eggs",
+        "50g Butter",
+        "2 tbsp Sugar"
+      ],
+      "method": [
+        "Mix flour, milk, eggs, and sugar in a bowl until smooth.",
+        "Melt butter in a pan over medium heat.",
+        "Pour batter into the pan, cook until bubbles form on the surface.",
+        "Flip and cook until golden brown.",
+        "Serve with your favorite toppings."
+      ],
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "6",
+      "title": "Greek Salad",
+      "ingredients": [
+        "2 Tomatoes",
+        "1 Cucumber",
+        "1 Red Onion",
+        "200g Feta Cheese",
+        "2 tbsp Olive Oil",
+        "1 tsp Oregano"
+      ],
+      "method": [
+        "Chop tomatoes, cucumber, and red onion into bite-sized pieces.",
+        "Cube feta cheese and add to the vegetables.",
+        "Drizzle olive oil and sprinkle oregano over the salad.",
+        "Toss gently to combine.",
+        "Serve immediately."
+      ],
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "7",
+      "title": "Beef Tacos",
+      "ingredients": [
+        "500g Ground Beef",
+        "1 Onion",
+        "1 tsp Cumin",
+        "1 tsp Paprika",
+        "8 Taco Shells",
+        "200g Lettuce",
+        "100g Cheddar Cheese"
+      ],
+      "method": [
+        "Cook ground beef and chopped onion in a pan until browned.",
+        "Add cumin and paprika, cook for another 5 minutes.",
+        "Warm taco shells according to package instructions.",
+        "Fill taco shells with beef mixture, shredded lettuce, and cheddar cheese.",
+        "Serve with salsa and sour cream."
+      ],
+      "cookingTime": "25 minutes"
+    }
+  ]
+}
