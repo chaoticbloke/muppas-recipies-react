@@ -34,6 +34,7 @@ function App() {
     <div className="App">
       <Navbar className={className} onChange={onChange} />
       <Routes>
+        <Route path="/" element={<Home data={data} />} />
         <Route path="/recipies" element={<Home data={data} />} />
         <Route path="recipies/:id" element={<RecipeDetails data={data} />} />
       </Routes>
