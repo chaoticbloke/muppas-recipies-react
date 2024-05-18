@@ -1,13 +1,12 @@
 import "./App.css";
 import { useState, useEffect } from "react";
 import Navbar from "./components/Home/Navbar/Navbar";
-import useGetDbJson from "./hooks/getDbJson";
 import { Route, Routes } from "react-router-dom";
 import RecipeDetails from "./components/Recipe/RecipeDetails";
 import Home from "./components/Home/Home";
 
 function App() {
-  const [className, setClassName] = useState("bg-info px-5");
+  const [className] = useState("bg-info px-5");
   const [data, setData] = useState([]);
   const onChange = (value) => {
     if (value.trim() === "" || !value) {

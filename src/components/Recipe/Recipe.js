@@ -2,7 +2,7 @@ import "./Recipe.css";
 import { Link } from "react-router-dom";
 
 const Recipe = ({ recipe }) => {
-  const { id, title, ingredients, method, cookingTime } = recipe;
+  const { id, title, ingredients, cookingTime } = recipe;
   return (
     <div className="card container w-75 mt-5">
       <h5 className="card-header">

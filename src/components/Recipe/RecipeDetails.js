@@ -1,5 +1,4 @@
 import { useNavigate, useParams } from "react-router-dom";
-import { Link } from "react-router-dom";
 import "./Recipe.css";
 
 const RecipeDetails = ({ data }) => {
@@ -12,7 +11,7 @@ const RecipeDetails = ({ data }) => {
     <div className="card-container">
       <div className="card mt-5 w-75 mx-2">
         <h5 className="card-header bg-secondary">
-          {id}. {title}
+          {recipeId}. {title}
         </h5>
         <div className="card-body">
           <h5 className="card-title">Ingredients</h5>

@@ -1,12 +1,5 @@
 import Recipe from "../Recipe/Recipe";
 const Home = ({ data }) => {
-  const styles = {
-    display: "grid",
-    placeItems: "center",
-    backgroundColor: "red",
-    width: "80vw",
-    height: "100vh",
-  };
   return (
     <div className="container">
       <div className="row">
